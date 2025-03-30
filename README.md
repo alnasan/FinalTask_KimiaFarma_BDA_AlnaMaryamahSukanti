@@ -178,7 +178,7 @@ ON ft.branch_id = kc.branch_id
 GROUP BY 1;
 CREATE OR REPLACE VIEW kimia_farma.vw_geo_map_total_profit_per_provinsi AS
 SELECT * FROM kimia_farma.geo_map_total_profit_per_provinsi;
-Link : https://console.cloud.google.com/bigquery?sq=559559882285:9c7b2cd798544b25a378541b73390e24
+
 
 
 
